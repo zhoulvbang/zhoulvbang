@@ -4,10 +4,7 @@
 
 我是 **[超级懒的小周](https://github.com/zhoulvbang)**，一名数据分析爱好者和管理专业人士，擅长编程、数据科学和统计建模，喜欢看外刊和破产姐妹，还喜欢在知乎写水文和看键政文。
 
-喜欢旅行和人聊天，阅读是终生的爱好，关于我的阅读记录，可以在这里看到部分：[微信读书](https://simonzhou.notion.site/141db76532074ead82d0861ca74fc565)。如果我们有共同的阅读书籍，我想我们会有很多可聊的话题。
-
-![image](https://github.com/user-attachments/assets/fba12218-0fd5-4549-9813-031846f109ae)
-
+喜欢旅行和聊天，阅读是终生的爱好，关于我的阅读记录，可以在这里看到部分：[微信读书](https://simonzhou.notion.site/141db76532074ead82d0861ca74fc565)。如果我们有共同的阅读书籍，我想我们会有很多可聊的话题。
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhoulvbang)
 
