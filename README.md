@@ -13,6 +13,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=zhoulvbang)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=zhoulvbang&left_color=green&right_color=red)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=zhoulvbang.visitor-badge&left_text=My%20Page%20Visitors)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zhoulvbang&theme=react)](https://github.com/zhoulvbang/github-readme-activity-graph)
 
