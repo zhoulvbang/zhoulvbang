@@ -8,10 +8,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhoulvbang)
 
-![visitors](https://visitor-badge.glitch.me/badge?zhoulvbang=page.id&left_color=green&right_color=red)
+![trophy](https://github-profile-trophy.vercel.app/?username=zhoulvbang)
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zhoulvbang)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=zhoulvbang&left_color=green&right_color=red)
 
+#![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zhoulvbang)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zhoulvbang&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/zhoulvbang/github-readme-activity-graph)
 
 ### 我的技术栈
 
@@ -20,9 +22,6 @@
 ![SAS](https://img.shields.io/badge/SAS-9.4-green?logo=sas&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-2.0-orange?logo=latex&logoColor=white)
 
-### 构建状态
-
-![构建状态](https://img.shields.io/github/workflow/status/zhoulvbang/zhoulvbang.github.io/CI?label=构建&logo=github)
 
 ### 我的项目
 
