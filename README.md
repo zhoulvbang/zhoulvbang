@@ -2,7 +2,9 @@
 
 欢迎来到我的 GitHub 主页！
 
-我是 **[超级懒的小周](https://github.com/zhoulvbang)**，一名数据分析爱好者和管理专业人士，擅长编程、数据科学和统计建模。
+我是 **[超级懒的小周](https://github.com/zhoulvbang)**，一名数据分析爱好者和管理专业人士，擅长编程、数据科学和统计建模，喜欢看外刊和破产姐妹，还喜欢在知乎写水文和看键政文。
+
+喜欢旅行和人聊天，阅读是终生的爱好，关于我的阅读记录，可以在这里看到：![微信读书](https://simonzhou.notion.site/141db76532074ead82d0861ca74fc565)。如果我们有共同的阅读书籍，我想我们会有很多可聊的话题。
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhoulvbang)
 
@@ -12,7 +14,6 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=zhoulvbang&left_color=green&right_color=red)
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zhoulvbang)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zhoulvbang&theme=react)](https://github.com/zhoulvbang/github-readme-activity-graph)
 
 ### 我的技术栈
