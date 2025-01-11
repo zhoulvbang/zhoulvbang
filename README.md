@@ -1,10 +1,17 @@
-## 大家好 👋
+## Hi there 👋
 
 欢迎来到我的 GitHub 主页！
 
-我是 **[zhoulvbang](https://github.com/zhoulvbang)**，一名数据分析爱好者和管理专业人士，擅长编程、数据科学和统计建模。
+我是 **[超级懒的小周](https://github.com/zhoulvbang)**，一名数据分析爱好者和管理专业人士，擅长编程、数据科学和统计建模。
 
-![GitHub Stars](https://img.shields.io/github/stars/zhoulvbang/zhoulvbang.github.io?style=social)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?zhoulvbang=anuraghazra)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?zhoulvbang=anuraghazra)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=zhoulvbang&left_color=green&right_color=red)
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zhoulvbang)
+
 
 ### 我的技术栈
 
