@@ -12,8 +12,8 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=zhoulvbang&left_color=green&right_color=red)
 
-#![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zhoulvbang)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zhoulvbang&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/zhoulvbang/github-readme-activity-graph)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zhoulvbang)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zhoulvbang&theme=react)](https://github.com/zhoulvbang/github-readme-activity-graph)
 
 ### 我的技术栈
 
