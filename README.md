@@ -6,6 +6,9 @@
 
 喜欢旅行和人聊天，阅读是终生的爱好，关于我的阅读记录，可以在这里看到部分：[微信读书](https://simonzhou.notion.site/141db76532074ead82d0861ca74fc565)。如果我们有共同的阅读书籍，我想我们会有很多可聊的话题。
 
+![image](https://github.com/user-attachments/assets/fba12218-0fd5-4549-9813-031846f109ae)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhoulvbang)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhoulvbang)
