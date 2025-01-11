@@ -22,7 +22,7 @@
 
 ### 构建状态
 
-![构建状态](https://img.shields.io/github/workflow/status/zhoulvbang/你的仓库/CI?label=构建&logo=github)
+![构建状态](https://img.shields.io/github/workflow/status/zhoulvbang/zhoulvbang.github.io/CI?label=构建&logo=github)
 
 ### 我的项目
 
