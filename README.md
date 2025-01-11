@@ -4,11 +4,11 @@
 
 我是 **[超级懒的小周](https://github.com/zhoulvbang)**，一名数据分析爱好者和管理专业人士，擅长编程、数据科学和统计建模。
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?zhoulvbang=anuraghazra)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhoulvbang)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?zhoulvbang=anuraghazra)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhoulvbang)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=zhoulvbang&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?zhoulvbang=page.id&left_color=green&right_color=red)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zhoulvbang)
 
