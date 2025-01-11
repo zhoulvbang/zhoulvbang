@@ -12,9 +12,6 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=zhoulvbang)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=zhoulvbang&left_color=green&right_color=red)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=zhoulvbang.visitor-badge&left_text=My%20Page%20Visitors)
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zhoulvbang&theme=react)](https://github.com/zhoulvbang/github-readme-activity-graph)
 
 ### 我的技术栈
@@ -24,9 +21,16 @@
 ![SAS](https://img.shields.io/badge/SAS-9.4-green?logo=sas&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-2.0-orange?logo=latex&logoColor=white)
 
-
 ### 我的项目
+
+- [卫生统计学笔记](www.lazyzhou.com)
+
+### 我的学习
 
 - 🔭 我目前正在使用 R 和 Python 完善我的数据分析项目。
 - 🌱 我正在学习高级统计建模技巧，并优化 SAS 工作流。
+
+### 社交
+
 - 📫 你可以通过电子邮件联系我：**simonzhou2001@gmail.com**
+
