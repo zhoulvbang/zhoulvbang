@@ -15,7 +15,7 @@
 
 🎓 **Bachelor degree in Public Affair Management,HuNan University of Chinese Medicine**
 
-📦 正在整理的項目：**[卫生统计学笔记](www.lazyzhou.cn)**
+📦 正在整理的項目：**[卫生统计学笔记](https://github.com/zhoulvbang/Med-Stat-Notes)**
 
 🔭 **我目前正在使用 R 和 Python 完善我的数据分析项目**
 
